@@ -2632,7 +2632,7 @@
             "macos": "https://github.com/Hat-Kid/og-orange-demon/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 262,
+            "windows": 263,
             "linux": 39,
             "macos": 14
           }
@@ -3172,8 +3172,8 @@
             "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 160,
-            "linux": 23,
+            "windows": 161,
+            "linux": 24,
             "macos": 1
           }
         },
@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5154,
+            "windows": 5155,
             "linux": 404,
             "macos": 28
           }
@@ -4157,7 +4157,7 @@
             "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 742,
+            "windows": 743,
             "linux": 52,
             "macos": 2
           }
@@ -4374,7 +4374,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.2.0-jak3.5/macos-intel-v0.2.0-jak3.5.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 50,
+            "windows": 51,
             "linux": 3,
             "macos": 0
           }
@@ -5095,7 +5095,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 534,
+            "windows": 535,
             "linux": 118,
             "macos": 0
           }
@@ -6137,7 +6137,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 499,
+            "windows": 503,
             "linux": 66,
             "macos": 4
           }
@@ -7383,7 +7383,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 677,
+            "windows": 678,
             "linux": 103,
             "macos": 16
           }
@@ -7698,27 +7698,6 @@
         "jak1"
       ],
       "versions": [
-        {
-          "version": "3.0.0",
-          "publishedDate": "2026-08-03T12:17:37Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/windows-v3.0.0.zip",
-            "linux": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/linux-v3.0.0.tar.gz",
-            "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/macos-intel-v3.0.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 4,
-            "linux": 0,
-            "macos": 0
-          }
-        },
         {
           "version": "2.0.1",
           "publishedDate": "2026-02-18T13:00:13Z",
@@ -9355,7 +9334,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.22/macos-intel-v0.0.22.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 9,
+            "windows": 11,
             "linux": 1,
             "macos": 0
           }
@@ -10040,7 +10019,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 585,
+            "windows": 586,
             "linux": 81,
             "macos": 0
           }
@@ -10996,5 +10975,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-03T23:39:27.563Z"
+  "lastUpdated": "2026-08-04T02:57:42.954Z"
 }
