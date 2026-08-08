@@ -2993,7 +2993,7 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1506,
+            "windows": 1507,
             "linux": 298,
             "macos": 22
           }
@@ -3773,7 +3773,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5216,
+            "windows": 5217,
             "linux": 407,
             "macos": 28
           }
@@ -7404,7 +7404,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Dark-Jak/releases/download/v0.5.0/macos-intel-v0.5.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 684,
+            "windows": 685,
             "linux": 104,
             "macos": 16
           }
@@ -11143,5 +11143,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-08T09:44:40.513Z"
+  "lastUpdated": "2026-08-08T10:40:47.535Z"
 }
