@@ -3798,7 +3798,7 @@
           "assetDownloadCounts": {
             "windows": 5322,
             "linux": 421,
-            "macos": 30
+            "macos": 31
           }
         },
         {
@@ -6181,7 +6181,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 590,
+            "windows": 591,
             "linux": 81,
             "macos": 6
           }
@@ -7845,7 +7845,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 526,
+            "windows": 527,
             "linux": 57,
             "macos": 7
           }
@@ -11355,5 +11355,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-14T21:31:31.027Z"
+  "lastUpdated": "2026-08-14T21:54:25.742Z"
 }
