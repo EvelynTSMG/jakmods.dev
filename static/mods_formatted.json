@@ -3196,7 +3196,7 @@
           },
           "assetDownloadCounts": {
             "windows": 219,
-            "linux": 35,
+            "linux": 36,
             "macos": 1
           }
         },
@@ -7845,7 +7845,7 @@
             "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 524,
+            "windows": 525,
             "linux": 57,
             "macos": 7
           }
@@ -11355,5 +11355,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-14T14:58:26.771Z"
+  "lastUpdated": "2026-08-14T15:59:51.993Z"
 }
