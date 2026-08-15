@@ -1564,7 +1564,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 352,
+            "windows": 353,
             "linux": 50,
             "macos": 6
           }
@@ -4164,6 +4164,27 @@
         "jak2"
       ],
       "versions": [
+        {
+          "version": "0.2.0",
+          "publishedDate": "2026-08-15T20:09:39Z",
+          "supportedGames": [
+            "jak2"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.2.0/windows-v0.2.0.zip",
+            "linux": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.2.0/linux-v0.2.0.tar.gz",
+            "macos": "https://github.com/narramoment/ArchipelaGOAL-II/releases/download/v0.2.0/macos-intel-v0.2.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
         {
           "version": "0.1.1",
           "publishedDate": "2026-03-17T20:20:08Z",
@@ -11397,5 +11418,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-15T19:48:27.482Z"
+  "lastUpdated": "2026-08-15T20:28:58.312Z"
 }
