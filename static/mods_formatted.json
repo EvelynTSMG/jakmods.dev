@@ -4418,7 +4418,7 @@
             "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.2.0/macos-intel-v1.2.0-jak3.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3,
+            "windows": 4,
             "linux": 0,
             "macos": 0
           }
@@ -8780,7 +8780,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 248,
+            "windows": 249,
             "linux": 25,
             "macos": 25
           }
@@ -10289,8 +10289,8 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4255,
-            "linux": 582,
+            "windows": 4256,
+            "linux": 583,
             "macos": 0
           }
         },
@@ -11039,7 +11039,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3048,
+            "windows": 3049,
             "linux": 465,
             "macos": 85
           }
@@ -11439,5 +11439,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-16T07:37:10.159Z"
+  "lastUpdated": "2026-08-16T08:35:54.107Z"
 }
