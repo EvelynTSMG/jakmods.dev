@@ -160,99 +160,10 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [
-        {
-          "version": "0.2.8",
-          "publishedDate": "2024-09-28T18:17:19Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/windows-v0.2.8.zip",
-            "linux": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/linux-v0.2.8.tar.gz",
-            "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.2.8/macos-intel-v0.2.8.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 645,
-            "linux": 67,
-            "macos": 22
-          }
-        },
-        {
-          "version": "0.1.3",
-          "publishedDate": "2024-09-27T07:50:41Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.1.3/windows-v0.1.3.zip",
-            "linux": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.1.3/linux-v0.1.3.tar.gz",
-            "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.1.3/macos-intel-v0.1.3.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 20,
-            "linux": 12,
-            "macos": 13
-          }
-        },
-        {
-          "version": "0.1.0",
-          "publishedDate": "2024-09-02T05:22:12Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.1.0/windows-v0.1.0.zip",
-            "linux": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.1.0/linux-v0.1.0.tar.gz",
-            "macos": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 46,
-            "linux": 10,
-            "macos": 10
-          }
-        },
-        {
-          "version": "0.0.2",
-          "publishedDate": "2024-08-16T21:29:02Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/OpenGOAL-Mods/OG-SM64/releases/download/v0.0.2/windows-v0.0.2.zip",
-            "linux": null,
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 19,
-            "linux": 0,
-            "macos": 0
-          }
-        }
-      ],
+      "versions": [],
       "coverArtUrl": "https://raw.githubusercontent.com/dallmeyer/opengoal-sm64/main/ModImage.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/dallmeyer/opengoal-sm64/main/ModImage.png",
-      "perGameConfig": {
-        "jak1": {
-          "releaseDate": "2022-10-28"
-        }
-      },
+      "perGameConfig": {},
       "externalLink": null
     },
     "microtransactions": {
@@ -474,99 +385,10 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [
-        {
-          "version": "0.3.0",
-          "publishedDate": "2026-06-14T00:42:54Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/this-guy-git/JGChaos/releases/download/v0.3.0/windows-v0.3.0.zip",
-            "linux": "https://github.com/this-guy-git/JGChaos/releases/download/v0.3.0/linux-v0.3.0.tar.gz",
-            "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 66,
-            "linux": 12,
-            "macos": 5
-          }
-        },
-        {
-          "version": "0.2.3",
-          "publishedDate": "2025-12-23T02:03:51Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.3/windows-v0.2.3.zip",
-            "linux": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.3/linux-v0.2.3.tar.gz",
-            "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.3/macos-intel-v0.2.3.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 310,
-            "linux": 42,
-            "macos": 12
-          }
-        },
-        {
-          "version": "0.2.2",
-          "publishedDate": "2025-12-22T22:50:35Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.2/windows-v0.2.2.zip",
-            "linux": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.2/linux-v0.2.2.tar.gz",
-            "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.2/macos-intel-v0.2.2.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 18,
-            "linux": 5,
-            "macos": 6
-          }
-        },
-        {
-          "version": "0.2.1",
-          "publishedDate": "2025-12-21T20:36:13Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.1/windows-v0.2.1.zip",
-            "linux": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.1/linux-v0.2.1.tar.gz",
-            "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.2.1/macos-intel-v0.2.1.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 14,
-            "linux": 3,
-            "macos": 7
-          }
-        }
-      ],
+      "versions": [],
       "coverArtUrl": "https://raw.githubusercontent.com/this-guy-git/JGChaos/main/storeimages/j1gchaos-large.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/this-guy-git/JGChaos/main/storeimages/j1gchaos-small.png",
-      "perGameConfig": {
-        "jak1": {
-          "releaseDate": "2025-12-21T20:36:13Z"
-        }
-      },
+      "perGameConfig": {},
       "externalLink": null
     },
     "halflife": {
@@ -688,12 +510,185 @@
       ],
       "websiteUrl": "https://github.com/Blake645/ArchipelaGOAL-3/blob/main/README.md",
       "supportedGames": [
-        "jak1"
+        "jak3"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.2.0",
+          "publishedDate": "2026-08-15T21:43:40Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.2.0/windows-v1.2.0-jak3.1.zip",
+            "linux": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.2.0/linux-v1.2.0-jak3.1.tar.gz",
+            "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.2.0/macos-intel-v1.2.0-jak3.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 16,
+            "linux": 4,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.1.0-jak3.0",
+          "publishedDate": "2026-08-07T15:39:56Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.1.0-jak3.0/windows-v1.1.0-jak3.0.zip",
+            "linux": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.1.0-jak3.0/linux-v0.2.1-jak3.0.tar.gz",
+            "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v1.1.0-jak3.0/macos-intel-v0.2.1-jak3.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 56,
+            "linux": 5,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.2.0-jak3.5",
+          "publishedDate": "2026-07-27T02:36:05Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.2.0-jak3.5/windows-v0.2.0-jak3.5.zip",
+            "linux": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.2.0-jak3.5/linux-v0.2.0-jak3.5.tar.gz",
+            "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.2.0-jak3.5/macos-intel-v0.2.0-jak3.5.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 62,
+            "linux": 5,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.2.0-jak3.4",
+          "publishedDate": "2026-07-01T21:58:31Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.2.0-jak3.4/windows-v0.0.1-jak3.4.zip",
+            "linux": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.2.0-jak3.4/linux-v0.0.1-jak3.4.tar.gz",
+            "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.2.0-jak3.4/macos-intel-v0.0.1-jak3.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 63,
+            "linux": 12,
+            "macos": 1
+          }
+        },
+        {
+          "version": "0.0.1-jak3.3",
+          "publishedDate": "2026-06-28T16:32:49Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.3/windows-v0.0.1-jak3.3.zip",
+            "linux": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.3/linux-v0.0.1-jak3.3.tar.gz",
+            "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.3/macos-intel-v0.0.1-jak3.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 13,
+            "linux": 2,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.1-jak3.2",
+          "publishedDate": "2026-06-23T22:28:14Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.2/windows-v0.0.1-jak3.2.zip",
+            "linux": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.2/linux-v0.0.1-jak3.2.tar.gz",
+            "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.2/macos-intel-v0.0.1-jak3.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 18,
+            "linux": 1,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.1-jak3.1",
+          "publishedDate": "2026-06-23T21:45:13Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.1/windows-v0.0.1-jak3.1.zip",
+            "linux": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.1/linux-v0.0.1-jak3.1.tar.gz",
+            "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.1/macos-intel-v0.0.1-jak3.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.1-jak3.0",
+          "publishedDate": "2026-06-17T22:44:36Z",
+          "supportedGames": [
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.0/windows-v0.0.1-jak3.0.zip",
+            "linux": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.0/linux-v0.0.1-jak3.0.tar.gz",
+            "macos": "https://github.com/Blake645/ArchipelaGOAL-3/releases/download/v0.0.1-jak3.0/macos-intel-v0.0.1-jak3.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 29,
+            "linux": 1,
+            "macos": 0
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/background.gif",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/ArchipelaGOAL/ArchipelaGOAL/main/thumbnails/thumbnail.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak3": {
+          "releaseDate": "2026-06-17"
+        }
+      },
       "externalLink": null
     },
     "mortin-time": {
@@ -934,10 +929,99 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.2.0-fools",
+          "publishedDate": "2025-03-19T16:42:33Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/windows-v1.2.0-fools.zip",
+            "linux": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/linux-v1.2.0-fools.tar.gz",
+            "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0-fools/macos-intel-v1.2.0-fools.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 42,
+            "linux": 8,
+            "macos": 7
+          }
+        },
+        {
+          "version": "1.2.0",
+          "publishedDate": "2025-04-17T18:18:10Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/windows-v1.2.0.zip",
+            "linux": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/linux-v1.2.0.tar.gz",
+            "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.2.0/macos-intel-v1.2.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 229,
+            "linux": 24,
+            "macos": 15
+          }
+        },
+        {
+          "version": "1.1.0",
+          "publishedDate": "2025-02-25T06:30:46Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.1.0/windows-v1.1.0.zip",
+            "linux": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.1.0/linux-v1.1.0.tar.gz",
+            "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.1.0/macos-intel-v1.1.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 11,
+            "linux": 8,
+            "macos": 8
+          }
+        },
+        {
+          "version": "1.0.0",
+          "publishedDate": "2024-12-31T22:56:46Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.0.0/windows-v1.0.0.zip",
+            "linux": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
+            "macos": "https://github.com/EvelynTSMG/JakSpeeb/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 102,
+            "linux": 13,
+            "macos": 12
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/JakSpeeb/refs/heads/main/_background.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/EvelynTSMG/JakSpeeb/refs/heads/main/_thumbnail.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2024-12-31"
+        }
+      },
       "externalLink": null
     },
     "platformia": {
@@ -1122,10 +1206,183 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "0.0.8",
+          "publishedDate": "2026-07-27T06:23:01Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.8/windows-v0.0.8.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.8/linux-v0.0.8.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.8/macos-intel-v0.0.8.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.7",
+          "publishedDate": "2026-07-27T03:15:15Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.7/windows-v0.0.7.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.7/linux-v0.0.7.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 4,
+            "linux": 1,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.6",
+          "publishedDate": "2026-07-26T23:08:55Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.6/windows-v0.0.6.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.6/linux-v0.0.6.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.5",
+          "publishedDate": "2026-07-26T20:55:20Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.5/windows-v0.0.5.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.5/linux-v0.0.5.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 5,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.4",
+          "publishedDate": "2026-07-26T06:48:50Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.4/windows-v0.0.4.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.4/linux-v0.0.4.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 7,
+            "linux": 1,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.3",
+          "publishedDate": "2026-07-26T06:36:35Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.3/windows-v0.0.3.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.3/linux-v0.0.3.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 0,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
+          "version": "0.0.2",
+          "publishedDate": "2026-07-26T05:15:19Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 4,
+            "linux": 1,
+            "macos": 1
+          }
+        },
+        {
+          "version": "0.0.1",
+          "publishedDate": "2026-07-20T21:32:22Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.1/windows-v0.0.1.zip",
+            "linux": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.1/linux-v0.0.1.tar.gz",
+            "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.1/macos-intel-v0.0.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 3,
+            "linux": 0,
+            "macos": 0
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/MikeGamePro/OG-Complicated/refs/heads/main/cover.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/MikeGamePro/OG-Complicated/refs/heads/main/thumbnail.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2026-07-20T21:32:22Z"
+        }
+      },
       "externalLink": null
     },
     "lifedrain": {
@@ -1355,5 +1612,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-17T15:31:51.008Z"
+  "lastUpdated": "2026-08-17T15:54:58.778Z"
 }
