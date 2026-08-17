@@ -406,10 +406,456 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.6",
+          "publishedDate": "2026-07-17T18:55:41Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/windows-v1.0.6.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/linux-v1.0.6.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.6/macos-intel-v1.0.6.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 239,
+            "linux": 39,
+            "macos": 1
+          }
+        },
+        {
+          "version": "1.0.5",
+          "publishedDate": "2026-07-15T20:09:12Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.5/windows-v1.0.5.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.5/linux-v1.0.5.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.5/macos-intel-v1.0.5.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 45,
+            "linux": 6,
+            "macos": 1
+          }
+        },
+        {
+          "version": "1.0.4",
+          "publishedDate": "2026-06-24T17:55:00Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.4/windows-v1.0.4.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.4/linux-v1.0.4.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.4/macos-intel-v1.0.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 260,
+            "linux": 45,
+            "macos": 1
+          }
+        },
+        {
+          "version": "1.0.3",
+          "publishedDate": "2026-06-19T18:58:27Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.3/windows-v1.0.3.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.3/linux-v1.0.3.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 92,
+            "linux": 12,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.0.2",
+          "publishedDate": "2026-05-31T23:27:22Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.2/windows-v1.0.2.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.2/linux-v1.0.2.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 199,
+            "linux": 20,
+            "macos": 5
+          }
+        },
+        {
+          "version": "1.0.1",
+          "publishedDate": "2026-05-30T16:29:54Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.1/windows-v1.0.1.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.1/linux-v1.0.1.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 29,
+            "linux": 4,
+            "macos": 0
+          }
+        },
+        {
+          "version": "1.0.0",
+          "publishedDate": "2026-05-19T21:54:58Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.0/windows-v1.0.0.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 171,
+            "linux": 22,
+            "macos": 1
+          }
+        },
+        {
+          "version": "0.1.1",
+          "publishedDate": "2026-04-26T14:02:54Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.1.1/windows-v0.1.1.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.1.1/linux-v0.1.1.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.1.1/macos-intel-v0.1.1.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 365,
+            "linux": 59,
+            "macos": 10
+          }
+        },
+        {
+          "version": "0.1.0",
+          "publishedDate": "2026-03-09T23:10:51Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.1.0/windows-v0.1.0.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.1.0/linux-v0.1.0.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 803,
+            "linux": 127,
+            "macos": 2
+          }
+        },
+        {
+          "version": "0.0.13",
+          "publishedDate": "2026-03-08T17:06:28Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.13/windows-v0.0.13.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.13/linux-v0.0.13.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.13/macos-intel-v0.0.13.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 59,
+            "linux": 7,
+            "macos": 4
+          }
+        },
+        {
+          "version": "0.0.12",
+          "publishedDate": "2026-03-03T21:52:37Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.12/windows-v0.0.12.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.12/linux-v0.0.12.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.12/macos-intel-v0.0.12.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 114,
+            "linux": 14,
+            "macos": 4
+          }
+        },
+        {
+          "version": "0.0.11",
+          "publishedDate": "2026-02-24T00:05:14Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.11/windows-v0.0.11.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.11/linux-v0.0.11.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.11/macos-intel-v0.0.11.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 314,
+            "linux": 30,
+            "macos": 10
+          }
+        },
+        {
+          "version": "0.0.10",
+          "publishedDate": "2026-02-21T19:10:59Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.10/windows-v0.0.10.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.10/linux-v0.0.10.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.10/macos-intel-v0.0.10.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 238,
+            "linux": 27,
+            "macos": 7
+          }
+        },
+        {
+          "version": "0.0.9",
+          "publishedDate": "2026-02-17T19:23:12Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.9/windows-v0.0.9.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.9/linux-v0.0.9.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.9/macos-intel-v0.0.9.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 384,
+            "linux": 42,
+            "macos": 10
+          }
+        },
+        {
+          "version": "0.0.8",
+          "publishedDate": "2026-02-14T00:15:04Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.8/windows-v0.0.8.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.8/linux-v0.0.8.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.8/macos-intel-v0.0.8.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 438,
+            "linux": 38,
+            "macos": 5
+          }
+        },
+        {
+          "version": "0.0.7",
+          "publishedDate": "2026-02-11T21:45:26Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.7/windows-v0.0.7.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.7/linux-v0.0.7.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 329,
+            "linux": 37,
+            "macos": 9
+          }
+        },
+        {
+          "version": "0.0.6",
+          "publishedDate": "2026-02-10T23:47:59Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.6/windows-v0.0.6.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.6/linux-v0.0.6.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 283,
+            "linux": 38,
+            "macos": 9
+          }
+        },
+        {
+          "version": "0.0.5",
+          "publishedDate": "2026-02-10T00:28:30Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.5/windows-v0.0.5.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.5/linux-v0.0.5.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.5/macos-intel-v0.0.5.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 345,
+            "linux": 33,
+            "macos": 10
+          }
+        },
+        {
+          "version": "0.0.4",
+          "publishedDate": "2026-02-08T22:53:29Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.4/windows-v0.0.4.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.4/linux-v0.0.4.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.4/macos-intel-v0.0.4.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 238,
+            "linux": 25,
+            "macos": 12
+          }
+        },
+        {
+          "version": "0.0.3",
+          "publishedDate": "2026-02-08T02:06:39Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.3/windows-v0.0.3.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.3/linux-v0.0.3.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.3/macos-intel-v0.0.3.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 112,
+            "linux": 22,
+            "macos": 6
+          }
+        },
+        {
+          "version": "0.0.2",
+          "publishedDate": "2026-02-05T22:07:28Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.2/windows-v0.0.2.zip",
+            "linux": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.2/linux-v0.0.2.tar.gz",
+            "macos": "https://github.com/mfOliveira19/GordonAndDaxter-Mod/releases/download/v0.0.2/macos-intel-v0.0.2.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 226,
+            "linux": 15,
+            "macos": 6
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/mfOliveira19/GordonAndDaxter-Mod/refs/heads/main/mod-background.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/mfOliveira19/GordonAndDaxter-Mod/refs/heads/main/mod-cover.png",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2026-02-05T22:07:28Z"
+        }
+      },
       "externalLink": null
     },
     "yosemite": {
@@ -814,59 +1260,12 @@
       ],
       "websiteUrl": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/blob/main/README.md",
       "supportedGames": [
-        "jak2"
+        "jak1"
       ],
-      "versions": [
-        {
-          "version": "1.1.0",
-          "publishedDate": "2025-09-28T03:22:30Z",
-          "supportedGames": [
-            "jak2"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/windows-v2.0.0.zip",
-            "linux": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/linux-v2.0.0.tar.gz",
-            "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.1.0/macos-intel-v2.0.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 530,
-            "linux": 57,
-            "macos": 7
-          }
-        },
-        {
-          "version": "1.0.0",
-          "publishedDate": "2025-02-25T09:19:45Z",
-          "supportedGames": [
-            "jak2"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.0.0/windows-v1.0.0.zip",
-            "linux": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.0.0/linux-v1.0.0.tar.gz",
-            "macos": "https://github.com/Nick0778/OG-Jak2-Defend-The-Portwall/releases/download/v1.0.0/macos-intel-v1.0.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 434,
-            "linux": 20,
-            "macos": 6
-          }
-        }
-      ],
+      "versions": [],
       "coverArtUrl": "https://raw.githubusercontent.com/Nick0778/OG-Jak2-Defend-The-Portwall/refs/heads/main/ModArt_BG.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/Nick0778/OG-Jak2-Defend-The-Portwall/refs/heads/main/ModArt_Cover.png",
-      "perGameConfig": {
-        "jak2": {
-          "releaseDate": "2025-02-25"
-        }
-      },
+      "perGameConfig": {},
       "externalLink": null
     },
     "accurate-unlockables": {
@@ -1052,162 +1451,10 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [
-        {
-          "version": "1.1.3",
-          "publishedDate": "2025-11-30T01:01:52Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.3/windows-v1.1.3.zip",
-            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.3/linux-v1.1.3.tar.gz",
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 609,
-            "linux": 84,
-            "macos": 0
-          }
-        },
-        {
-          "version": "1.1.2",
-          "publishedDate": "2025-05-10T18:16:18Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.2/windows-v1.1.2.zip",
-            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.2/linux-v1.1.2.tar.gz",
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 360,
-            "linux": 24,
-            "macos": 0
-          }
-        },
-        {
-          "version": "1.1.1",
-          "publishedDate": "2025-02-14T04:06:12Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.1/windows-v1.1.1.zip",
-            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.1/linux-v1.1.1.tar.gz",
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 209,
-            "linux": 20,
-            "macos": 0
-          }
-        },
-        {
-          "version": "1.1.0",
-          "publishedDate": "2025-02-09T04:34:00Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.0/windows-v1.1.0.zip",
-            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.1.0/linux-v1.1.0.tar.gz",
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 31,
-            "linux": 8,
-            "macos": 0
-          }
-        },
-        {
-          "version": "1.0.3",
-          "publishedDate": "2025-02-07T18:52:01Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.0.3/windows-v1.0.3.zip",
-            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.0.3/linux-v1.0.3.tar.gz",
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 32,
-            "linux": 10,
-            "macos": 0
-          }
-        },
-        {
-          "version": "1.0.2",
-          "publishedDate": "2025-02-07T17:26:31Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v1.0.2/windows-v1.0.2.zip",
-            "linux": "https://github.com/dallmeyer/jak-up/releases/download/v1.0.2/linux-v1.0.2.tar.gz",
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 17,
-            "linux": 9,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.2.1",
-          "publishedDate": "2024-08-16T18:23:25Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/dallmeyer/jak-up/releases/download/v0.2.1/windows-v0.2.1.zip",
-            "linux": null,
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 409,
-            "linux": 0,
-            "macos": 0
-          }
-        }
-      ],
+      "versions": [],
       "coverArtUrl": "https://raw.githubusercontent.com/dallmeyer/modimages/main/jakup.jpeg",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/JakUpSmall.png",
-      "perGameConfig": {
-        "jak1": {
-          "releaseDate": "2023-08-10"
-        }
-      },
+      "perGameConfig": {},
       "externalLink": null
     },
     "river-to-water": {
@@ -1222,162 +1469,10 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [
-        {
-          "version": "0.0.8-afoniddwr.2",
-          "publishedDate": "2025-05-11T19:12:40Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/windows-v0.0.8-afoniddwr.2.zip",
-            "linux": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/linux-v0.0.8-afoniddwr.2.tar.gz",
-            "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 750,
-            "linux": 105,
-            "macos": 29
-          }
-        },
-        {
-          "version": "0.0.8-afoniddwr.0",
-          "publishedDate": "2025-05-11T16:45:46Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.0/windows-v0.0.8-afoniddwr.0.zip",
-            "linux": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.0/linux-v0.0.8-afoniddwr.0.tar.gz",
-            "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.0/macos-intel-v0.0.8-afoniddwr.0.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 13,
-            "linux": 6,
-            "macos": 8
-          }
-        },
-        {
-          "version": "0.0.7",
-          "publishedDate": "2024-09-01T20:56:07Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.7/windows-v0.0.7.zip",
-            "linux": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.7/linux-v0.0.7.tar.gz",
-            "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.7/macos-intel-v0.0.7.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 504,
-            "linux": 41,
-            "macos": 11
-          }
-        },
-        {
-          "version": "0.0.6",
-          "publishedDate": "2024-09-01T16:37:09Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.6/windows-v0.0.6.zip",
-            "linux": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.6/linux-v0.0.6.tar.gz",
-            "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
-          },
-          "assetDownloadCounts": {
-            "windows": 20,
-            "linux": 8,
-            "macos": 8
-          }
-        },
-        {
-          "version": "0.0.5",
-          "publishedDate": "2024-09-01T15:06:33Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.5/windows-v0.0.5.zip",
-            "linux": null,
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 17,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.4",
-          "publishedDate": "2024-08-31T20:40:28Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.4/windows-v0.0.4.zip",
-            "linux": null,
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 36,
-            "linux": 0,
-            "macos": 0
-          }
-        },
-        {
-          "version": "0.0.3",
-          "publishedDate": "2024-08-16T22:07:56Z",
-          "supportedGames": [
-            "jak1"
-          ],
-          "settings": {
-            "decompConfigOverride": "",
-            "shareVanillaSaves": false
-          },
-          "assets": {
-            "windows": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.3/windows-v0.0.3.zip",
-            "linux": null,
-            "macos": null
-          },
-          "assetDownloadCounts": {
-            "windows": 26,
-            "linux": 0,
-            "macos": 0
-          }
-        }
-      ],
+      "versions": [],
       "coverArtUrl": "https://raw.githubusercontent.com/dallmeyer/modimages/main/cuttlefish-river-to-water.png",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/OpenGOAL-Mods/jakmods.dev/main/ModImages/RiverWaterSmall.png",
-      "perGameConfig": {
-        "jak1": {
-          "releaseDate": "2024-06-04"
-        }
-      },
+      "perGameConfig": {},
       "externalLink": null
     },
     "rockpool": {
@@ -1428,10 +1523,78 @@
       "supportedGames": [
         "jak1"
       ],
-      "versions": [],
+      "versions": [
+        {
+          "version": "1.0.9",
+          "publishedDate": "2025-05-11T17:25:13Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/windows-v1.0.9.zip",
+            "linux": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/linux-v1.0.9.tar.gz",
+            "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 1199,
+            "linux": 170,
+            "macos": 54
+          }
+        },
+        {
+          "version": "1.0.8",
+          "publishedDate": "2025-05-11T16:24:53Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.8/windows-v1.0.8.zip",
+            "linux": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.8/linux-v1.0.8.tar.gz",
+            "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.8/macos-intel-v1.0.8.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 21,
+            "linux": 9,
+            "macos": 19
+          }
+        },
+        {
+          "version": "1.0.7",
+          "publishedDate": "2024-12-22T00:05:43Z",
+          "supportedGames": [
+            "jak1"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.7/windows-v1.0.7.zip",
+            "linux": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.7/linux-v1.0.7.tar.gz",
+            "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.7/macos-intel-v1.0.7.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 486,
+            "linux": 35,
+            "macos": 24
+          }
+        }
+      ],
       "coverArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG",
       "thumbnailArtUrl": "https://raw.githubusercontent.com/Cuttlefishthesage/OG-Mod-Base-Glacier/refs/heads/main/GlacierThumbnailFinal.PNG",
-      "perGameConfig": {},
+      "perGameConfig": {
+        "jak1": {
+          "releaseDate": "2024-12-22"
+        }
+      },
       "externalLink": null
     },
     "brume_village": {
@@ -1528,5 +1691,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-17T13:44:56.630Z"
+  "lastUpdated": "2026-08-17T14:33:55.867Z"
 }
