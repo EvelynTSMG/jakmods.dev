@@ -4204,7 +4204,7 @@
           },
           "assetDownloadCounts": {
             "windows": 32,
-            "linux": 1,
+            "linux": 2,
             "macos": 0
           }
         },
@@ -4442,7 +4442,7 @@
           },
           "assetDownloadCounts": {
             "windows": 27,
-            "linux": 4,
+            "linux": 5,
             "macos": 0
           }
         },
@@ -10354,7 +10354,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4278,
+            "windows": 4279,
             "linux": 585,
             "macos": 0
           }
@@ -10377,7 +10377,7 @@
           "assetDownloadCounts": {
             "windows": 280,
             "linux": 22,
-            "macos": 84
+            "macos": 86
           }
         },
         {
@@ -11504,5 +11504,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-18T21:29:46.899Z"
+  "lastUpdated": "2026-08-18T21:53:37.272Z"
 }
