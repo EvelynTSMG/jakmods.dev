@@ -3772,7 +3772,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 1450,
+            "windows": 1451,
             "linux": 0,
             "macos": 0
           }
@@ -7823,7 +7823,7 @@
             "macos": "https://github.com/gratefulforest/Cratetopia/releases/download/v3.0.0/macos-intel-v3.0.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3,
+            "windows": 4,
             "linux": 0,
             "macos": 0
           }
@@ -10377,7 +10377,7 @@
           "assetDownloadCounts": {
             "windows": 280,
             "linux": 22,
-            "macos": 83
+            "macos": 84
           }
         },
         {
@@ -10548,7 +10548,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 612,
+            "windows": 613,
             "linux": 84,
             "macos": 0
           }
@@ -11170,7 +11170,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1708,
+            "windows": 1709,
             "linux": 274,
             "macos": 50
           }
@@ -11504,5 +11504,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-18T20:55:12.148Z"
+  "lastUpdated": "2026-08-18T21:29:46.899Z"
 }
