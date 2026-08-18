@@ -1849,7 +1849,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Microtransactions/releases/download/v0.2.7/macos-intel-v0.2.7.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 243,
+            "windows": 244,
             "linux": 46,
             "macos": 12
           }
@@ -9464,7 +9464,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v0.0.44/macos-intel-v0.0.44.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 0,
+            "windows": 1,
             "linux": 0,
             "macos": 0
           }
@@ -11427,7 +11427,7 @@
           },
           "assetDownloadCounts": {
             "windows": 671,
-            "linux": 52,
+            "linux": 53,
             "macos": 23
           }
         },
@@ -11504,5 +11504,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-18T06:52:26.302Z"
+  "lastUpdated": "2026-08-18T07:44:18.515Z"
 }
