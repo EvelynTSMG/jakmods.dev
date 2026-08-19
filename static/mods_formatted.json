@@ -5987,7 +5987,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Jak2-AugustBuild/releases/download/v0.1.0/macos-intel-v0.1.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 368,
+            "windows": 369,
             "linux": 32,
             "macos": 16
           }
@@ -11525,5 +11525,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-19T19:56:33.471Z"
+  "lastUpdated": "2026-08-19T20:35:15.299Z"
 }
