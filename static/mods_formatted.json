@@ -5204,7 +5204,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 580,
+            "windows": 581,
             "linux": 135,
             "macos": 0
           }
@@ -5628,7 +5628,7 @@
             "macos": "https://github.com/trippjoe/OG-No-Blue-No-Collect/releases/download/v1.1.3/macos-intel-v1.1.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 21,
+            "windows": 22,
             "linux": 5,
             "macos": 4
           }
@@ -11525,5 +11525,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-19T23:28:17.582Z"
+  "lastUpdated": "2026-08-19T23:51:25.810Z"
 }
