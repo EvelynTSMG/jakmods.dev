@@ -1587,7 +1587,7 @@
             "macos": "https://github.com/Hat-Kid/og-j1-board/releases/download/v0.0.6/macos-intel-v0.0.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 394,
+            "windows": 396,
             "linux": 57,
             "macos": 6
           }
@@ -6032,7 +6032,7 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 342,
+            "windows": 343,
             "linux": 35,
             "macos": 1
           }
@@ -10375,7 +10375,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4289,
+            "windows": 4290,
             "linux": 586,
             "macos": 0
           }
@@ -10739,7 +10739,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base/releases/download/v0.0.8-afoniddwr.2/macos-intel-v0.0.8-afoniddwr.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 758,
+            "windows": 759,
             "linux": 105,
             "macos": 29
           }
@@ -10909,7 +10909,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 1310,
+            "windows": 1311,
             "linux": 0,
             "macos": 0
           }
@@ -10974,7 +10974,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1606,
+            "windows": 1607,
             "linux": 247,
             "macos": 56
           }
@@ -11039,7 +11039,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1209,
+            "windows": 1210,
             "linux": 170,
             "macos": 54
           }
@@ -11125,7 +11125,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3075,
+            "windows": 3076,
             "linux": 470,
             "macos": 85
           }
@@ -11191,7 +11191,7 @@
             "macos": "https://github.com/Cuttlefishthesage/ErodedCoast/releases/download/v5.0.3/macos-intel-v5.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1713,
+            "windows": 1714,
             "linux": 275,
             "macos": 50
           }
@@ -11298,7 +11298,7 @@
             "macos": "https://github.com/slak1-OG-mods/jak1-sandpit-level/releases/download/v2.0.1-modbase-merge.4/macos-intel-v2.0.1-modbase-merge.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 912,
+            "windows": 913,
             "linux": 124,
             "macos": 32
           }
@@ -11525,5 +11525,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-20T11:32:12.663Z"
+  "lastUpdated": "2026-08-20T12:58:50.871Z"
 }
