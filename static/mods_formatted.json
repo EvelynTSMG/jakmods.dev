@@ -3819,7 +3819,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.8/macos-intel-v0.5.8.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5456,
+            "windows": 5457,
             "linux": 433,
             "macos": 32
           }
@@ -5780,7 +5780,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 748,
+            "windows": 749,
             "linux": 123,
             "macos": 4
           }
@@ -11567,5 +11567,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-22T12:49:44.303Z"
+  "lastUpdated": "2026-08-22T13:36:05.929Z"
 }
