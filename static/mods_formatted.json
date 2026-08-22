@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.6/macos-intel-v0.5.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 21,
+            "windows": 22,
             "linux": 1,
             "macos": 0
           }
@@ -7070,7 +7070,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1365,
+            "windows": 1366,
             "linux": 198,
             "macos": 18
           }
@@ -11081,7 +11081,7 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1219,
+            "windows": 1220,
             "linux": 170,
             "macos": 54
           }
@@ -11567,5 +11567,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-22T21:27:23.032Z"
+  "lastUpdated": "2026-08-22T21:49:57.866Z"
 }
