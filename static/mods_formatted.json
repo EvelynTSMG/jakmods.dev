@@ -6267,7 +6267,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 670,
+            "windows": 671,
             "linux": 91,
             "macos": 7
           }
@@ -7070,7 +7070,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1377,
+            "windows": 1378,
             "linux": 198,
             "macos": 18
           }
@@ -11167,7 +11167,7 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3103,
+            "windows": 3104,
             "linux": 473,
             "macos": 85
           }
@@ -11567,5 +11567,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-23T21:50:21.813Z"
+  "lastUpdated": "2026-08-23T22:28:18.102Z"
 }
