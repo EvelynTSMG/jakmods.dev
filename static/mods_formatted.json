@@ -39,7 +39,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Speedrun-Practice/releases/download/v0.5.6/macos-intel-v0.5.6.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 34,
+            "windows": 35,
             "linux": 1,
             "macos": 0
           }
@@ -7091,7 +7091,7 @@
             "macos": "https://github.com/RealOfficialKraken/roguelikejakii/releases/download/v0.0.54/macos-intel-v0.0.54.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1384,
+            "windows": 1385,
             "linux": 199,
             "macos": 18
           }
@@ -8052,6 +8052,28 @@
       ],
       "versions": [
         {
+          "version": "0.1.16",
+          "publishedDate": "2026-08-25T18:11:03Z",
+          "supportedGames": [
+            "jak2",
+            "jak3"
+          ],
+          "settings": {
+            "decompConfigOverride": "",
+            "shareVanillaSaves": false
+          },
+          "assets": {
+            "windows": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.16/windows-v0.1.16.zip",
+            "linux": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.16/linux-v0.1.16.tar.gz",
+            "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.16/macos-intel-v0.1.16.tar.gz"
+          },
+          "assetDownloadCounts": {
+            "windows": 2,
+            "linux": 0,
+            "macos": 0
+          }
+        },
+        {
           "version": "0.1.15",
           "publishedDate": "2026-08-25T07:35:51Z",
           "supportedGames": [
@@ -8068,7 +8090,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.15/macos-intel-v0.1.15.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 5,
+            "windows": 8,
             "linux": 1,
             "macos": 0
           }
@@ -10481,7 +10503,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4330,
+            "windows": 4331,
             "linux": 593,
             "macos": 0
           }
@@ -11631,5 +11653,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-25T17:36:53.960Z"
+  "lastUpdated": "2026-08-25T18:48:01.435Z"
 }
