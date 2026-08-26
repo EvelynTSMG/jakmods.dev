@@ -5267,7 +5267,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 612,
+            "windows": 613,
             "linux": 141,
             "macos": 0
           }
@@ -11123,7 +11123,7 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1625,
+            "windows": 1626,
             "linux": 248,
             "macos": 56
           }
@@ -11674,5 +11674,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-08-26T10:09:04.787Z"
+  "lastUpdated": "2026-08-26T11:59:37.139Z"
 }
