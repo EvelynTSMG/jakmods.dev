@@ -1568,7 +1568,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Zoomer-Legacy/releases/download/v0.1.4/macos-intel-v0.1.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 560,
+            "windows": 561,
             "linux": 91,
             "macos": 31
           }
@@ -1657,7 +1657,7 @@
           },
           "assetDownloadCounts": {
             "windows": 878,
-            "linux": 139,
+            "linux": 140,
             "macos": 26
           }
         },
@@ -3108,8 +3108,8 @@
             "macos": "https://github.com/EvelynTSMG/Jak-EveBase/releases/download/v0.1.2/macos-intel-v0.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1948,
-            "linux": 358,
+            "windows": 1949,
+            "linux": 359,
             "macos": 36
           }
         },
@@ -3177,7 +3177,7 @@
             "macos": "https://github.com/this-guy-git/JGChaos/releases/download/v0.3.0/macos-intel-v0.3.0.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 134,
+            "windows": 135,
             "linux": 19,
             "macos": 6
           }
@@ -3888,7 +3888,7 @@
             "macos": "https://github.com/ArchipelaGOAL/ArchipelaGOAL/releases/download/v0.5.9/macos-intel-v0.5.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1235,
+            "windows": 1238,
             "linux": 126,
             "macos": 20
           }
@@ -6374,7 +6374,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-Daxter2/releases/download/v1.1.2/macos-intel-v1.1.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 981,
+            "windows": 982,
             "linux": 163,
             "macos": 12
           }
@@ -6647,9 +6647,9 @@
             "macos": "https://github.com/RealOfficialKraken/updated-HeroModePlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 886,
+            "windows": 887,
             "linux": 112,
-            "macos": 5
+            "macos": 6
           }
         },
         {
@@ -6861,9 +6861,9 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.2/macos-intel-v1.0.2.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1370,
+            "windows": 1372,
             "linux": 188,
-            "macos": 14
+            "macos": 15
           }
         },
         {
@@ -6882,7 +6882,7 @@
             "macos": "https://github.com/RealOfficialKraken/pre-release--Jak3HMPlus/releases/download/v1.0.1/macos-intel-v1.0.1.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 41,
+            "windows": 42,
             "linux": 4,
             "macos": 0
           }
@@ -8237,7 +8237,7 @@
           },
           "assetDownloadCounts": {
             "windows": 2307,
-            "linux": 415,
+            "linux": 416,
             "macos": 38
           }
         }
@@ -8641,7 +8641,7 @@
             "macos": "https://github.com/OpenGOAL-Mods/OG-ILs/releases/download/v0.1.20/macos-intel-v0.1.20.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 59,
+            "windows": 60,
             "linux": 6,
             "macos": 0
           }
@@ -9550,7 +9550,7 @@
             "macos": "https://github.com/my-opengoal-mods/OG-warp-randomizer/releases/download/v0.0.16/macos-intel-v0.0.16.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 291,
+            "windows": 292,
             "linux": 31,
             "macos": 27
           }
@@ -10211,7 +10211,7 @@
             "macos": "https://github.com/MikeGamePro/OG-Complicated/releases/download/v1.8.3/macos-intel-v1.8.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 29,
+            "windows": 30,
             "linux": 4,
             "macos": 1
           }
@@ -11899,7 +11899,7 @@
             "macos": null
           },
           "assetDownloadCounts": {
-            "windows": 4866,
+            "windows": 4868,
             "linux": 705,
             "macos": 0
           }
@@ -12264,7 +12264,7 @@
           },
           "assetDownloadCounts": {
             "windows": 844,
-            "linux": 122,
+            "linux": 123,
             "macos": 34
           }
         },
@@ -12498,8 +12498,8 @@
             "macos": "https://github.com/Cuttlefishthesage/LL-OpenGOAL-ModBase/releases/download/v4.3.4/macos-intel-v4.3.4.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1763,
-            "linux": 274,
+            "windows": 1764,
+            "linux": 275,
             "macos": 68
           }
         },
@@ -12563,8 +12563,8 @@
             "macos": "https://github.com/Cuttlefishthesage/OG-Mod-Base-Glacier/releases/download/v1.0.9/macos-intel-v1.0.9.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 1367,
-            "linux": 202,
+            "windows": 1368,
+            "linux": 203,
             "macos": 60
           }
         },
@@ -12649,8 +12649,8 @@
             "macos": "https://github.com/Cuttlefishthesage/BrumeVillage/releases/download/v1.0.3/macos-intel-v1.0.3.tar.gz"
           },
           "assetDownloadCounts": {
-            "windows": 3597,
-            "linux": 557,
+            "windows": 3598,
+            "linux": 558,
             "macos": 105
           }
         },
@@ -12716,7 +12716,7 @@
           },
           "assetDownloadCounts": {
             "windows": 2100,
-            "linux": 335,
+            "linux": 337,
             "macos": 74
           }
         },
@@ -12823,7 +12823,7 @@
           },
           "assetDownloadCounts": {
             "windows": 1006,
-            "linux": 139,
+            "linux": 140,
             "macos": 35
           }
         },
@@ -13049,5 +13049,5 @@
     }
   },
   "texturePacks": {},
-  "lastUpdated": "2026-11-22T22:27:15.063Z"
+  "lastUpdated": "2026-11-23T03:02:24.335Z"
 }
